@@ -1,7 +1,8 @@
+
 body {
     margin: 0;
     font-family: Arial, sans-serif;
-    background-image: url('CNSS/C:/Users/admin/Desktop/CNSS/image/backg.png');
+    background-image: url('../image/backg.png');
     background-size: cover;
     background-position: left;
     display: flex;
